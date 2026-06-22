@@ -1,5 +1,5 @@
-# Resumable Uploads & Large Files
+# Cloud Functions Overview
 
-`uploadBytesResumable()`, pause/resume, progress tracking.
+Serverless functions triggered by Firebase events. HTTP callable, background triggers.
 
-> 📘 Next: **06-cloud-functions** – [Cloud Functions Overview](../06-cloud-functions/01-cloud-functions-overview.md)
+> 📘 Next: [Setting Up Functions Environment](02-setting-up-functions-environment.md)

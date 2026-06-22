@@ -1,5 +1,5 @@
-# Cloud Functions Overview
+# Setting Up Functions Environment
 
-Serverless functions triggered by Firebase events. HTTP callable, background triggers.
+`firebase init functions`. TypeScript/JavaScript. Folder structure.
 
-> 📘 Next: [Setting Up Functions Environment](02-setting-up-functions-environment.md)
+> 📘 Next: [HTTP Callable Functions](03-http-callable-functions.md)
