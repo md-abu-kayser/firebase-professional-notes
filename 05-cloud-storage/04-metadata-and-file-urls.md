@@ -1,5 +1,5 @@
-# Downloading & Deleting Files
+# Metadata & File URLs
 
-`getDownloadURL()`, `deleteObject()`. Access tokens.
+Custom metadata, cache control, content type.
 
-> 📘 Next: [Metadata & File URLs](04-metadata-and-file-urls.md)
+> 📘 Next: [Access Control & Security Rules](05-access-control-and-security-rules.md)

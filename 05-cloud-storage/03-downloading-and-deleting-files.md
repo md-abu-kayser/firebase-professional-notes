@@ -1,5 +1,5 @@
-# Uploading Files
+# Downloading & Deleting Files
 
-`ref.put()`, `uploadBytes()`, `uploadString()`. Blobs, base64, etc.
+`getDownloadURL()`, `deleteObject()`. Access tokens.
 
-> 📘 Next: [Downloading & Deleting Files](03-downloading-and-deleting-files.md)
+> 📘 Next: [Metadata & File URLs](04-metadata-and-file-urls.md)

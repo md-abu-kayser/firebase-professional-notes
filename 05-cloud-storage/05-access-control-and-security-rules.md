@@ -1,5 +1,5 @@
-# Metadata & File URLs
+# Access Control & Security Rules
 
-Custom metadata, cache control, content type.
+Storage rules: `match /b/{bucket}/o`. Restrict access.
 
-> 📘 Next: [Access Control & Security Rules](05-access-control-and-security-rules.md)
+> 📘 Next: [Resumable Uploads & Large Files](06-resumable-uploads-and-large-files.md)

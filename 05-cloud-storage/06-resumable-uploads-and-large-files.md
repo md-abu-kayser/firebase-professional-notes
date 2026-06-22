@@ -1,5 +1,5 @@
-# Access Control & Security Rules
+# Resumable Uploads & Large Files
 
-Storage rules: `match /b/{bucket}/o`. Restrict access.
+`uploadBytesResumable()`, pause/resume, progress tracking.
 
-> 📘 Next: [Resumable Uploads & Large Files](06-resumable-uploads-and-large-files.md)
+> 📘 Next: **06-cloud-functions** – [Cloud Functions Overview](../06-cloud-functions/01-cloud-functions-overview.md)
