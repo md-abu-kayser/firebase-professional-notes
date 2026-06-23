@@ -1,4 +1,4 @@
-# Admin SDK Setup & Authentication
+# A & Authentication
 
 `admin.initializeApp()`. Service account credentials.
 
